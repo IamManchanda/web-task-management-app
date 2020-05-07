@@ -1,3 +1,3 @@
-# Task Management Application Front-end
+# Web Front-end: Task Managment App
 
-This application acts as the front-end for the Task Management application developed throughout the *NestJS - Zero to Hero* course, produced by Ariel Weinberger.
+Web Front-end Repository for Task Managment App (JavaScript & React).
